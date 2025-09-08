@@ -27,7 +27,7 @@ const Hero = () => {
                 <span className="text-sm font-medium">OFERTA ESPECIAL</span>
               </div>
               <div className="text-3xl font-bold">
-                Apenas <span className="text-whatsapp">R$ 500,00</span>
+                Apenas <span className="text-whatsapp">R$ 1.000,00</span>
               </div>
             </div>
 

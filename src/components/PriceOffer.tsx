@@ -18,7 +18,7 @@ const PriceOffer = () => {
             </div>
             <h2 className="text-3xl lg:text-5xl font-bold mb-4">
               Invista apenas{" "}
-              <span className="text-whatsapp">R$ 500,00</span>
+              <span className="text-whatsapp">R$ 1.000,00</span>
             </h2>
             <p className="text-xl text-blue-100 mb-2">
               e desbloqueie sua conta de anúncios para sempre
