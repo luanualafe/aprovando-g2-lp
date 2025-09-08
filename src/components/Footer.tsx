@@ -13,7 +13,7 @@ const Footer = () => {
               <div className="w-8 h-8 bg-whatsapp rounded-lg flex items-center justify-center">
                 <span className="text-white font-bold text-sm">G2</span>
               </div>
-              <h3 className="text-xl font-bold">Aprovanto G2</h3>
+              <h3 className="text-xl font-bold">Aprovando G2</h3>
             </div>
             <p className="text-primary-foreground/80 leading-relaxed">
               Especialistas em aprovação da Certificação G2 do Google. 
@@ -28,14 +28,6 @@ const Footer = () => {
               <div className="flex items-center gap-2 text-primary-foreground/80">
                 <MessageCircle size={16} />
                 <span>WhatsApp: (11) 97871-2950</span>
-              </div>
-              <div className="flex items-center gap-2 text-primary-foreground/80">
-                <Mail size={16} />
-                <span>contato@aprovantog2.com</span>
-              </div>
-              <div className="flex items-center gap-2 text-primary-foreground/80">
-                <MapPin size={16} />
-                <span>São Paulo - SP</span>
               </div>
             </div>
           </div>
@@ -67,7 +59,7 @@ const Footer = () => {
         <div className="border-t border-primary-foreground/20 pt-8">
           <div className="flex flex-col md:flex-row justify-between items-center gap-4">
             <p className="text-primary-foreground/60 text-sm">
-              © 2024 Aprovanto G2. Todos os direitos reservados.
+              © 2024 Aprovando G2. Todos os direitos reservados.
             </p>
             <div className="flex items-center gap-4 text-primary-foreground/60 text-sm">
               <a href="#" className="hover:text-primary-foreground transition-colors">

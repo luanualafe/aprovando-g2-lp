@@ -44,7 +44,7 @@ const Hero = () => {
                 className="flex items-center gap-3"
               >
                 <CheckCircle size={20} />
-                Quero Minha Certificação no WhatsApp
+                Solicitar Certificação Agora
               </a>
             </Button>
           </div>
