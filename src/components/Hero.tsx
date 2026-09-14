@@ -1,5 +1,6 @@
 import { Button } from "@/components/ui/button";
 import { CheckCircle } from "lucide-react";
+import WhatsappIcon from "@/components/icons/WhatsappIcon";
 import heroImage from "@/assets/hero-image.jpg";
 
 const Hero = () => {
@@ -43,7 +44,7 @@ const Hero = () => {
                 rel="noopener noreferrer"
                 className="flex items-center gap-3"
               >
-                <CheckCircle size={20} />
+                <WhatsappIcon size={20} />
                 Solicitar Certificação Agora
               </a>
             </Button>
