@@ -1,5 +1,6 @@
 import { Button } from "@/components/ui/button";
-import { CheckCircle, Zap, Users, Clock, MessageCircle } from "lucide-react";
+import { CheckCircle, Zap, Users, MessageCircle } from "lucide-react";
+import WhatsappIcon from "@/components/icons/WhatsappIcon";
 
 const Solution = () => {
   const whatsappLink = "https://wa.me/5511978712950?text=Quero%20solicitar%20a%20aprova%C3%A7%C3%A3o%20do%20G2%20para%20meu%20neg%C3%B3cio";
@@ -76,7 +77,7 @@ const Solution = () => {
               rel="noopener noreferrer"
               className="flex items-center gap-3"
             >
-              <MessageCircle size={20} />
+              <WhatsappIcon size={20} />
               Solicitar Certificação Agora
             </a>
           </Button>
